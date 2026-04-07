@@ -1,0 +1,5 @@
+*.npz
+*.docx
+*.ipynb
+UrbanSound8K/
+__pycache__/
